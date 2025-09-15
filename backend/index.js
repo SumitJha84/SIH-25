@@ -20,9 +20,13 @@ const corsOptions = {
   }
 };
 
-// Use the new options
+// --- THIS IS THE KEY CHANGE ---
+// Handle preflight OPTIONS requests for all routes
+app.options('*', cors(corsOptions));
+
+// Use the CORS options for all other requests
 app.use(cors(corsOptions));
-// --- End of CORS Configuration ---
+// --- END OF CONFIGURATION ---
 
 app.use(express.json());
 
