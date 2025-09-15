@@ -28,7 +28,8 @@ const WeatherForecastCard: React.FC<WeatherForecastCardProps> = () => {
 
   const fetchWeatherData = async (lat: number, lon: number) => {
     try {
-      const response = await fetch(`http://localhost:5000/api/weather?lat=${lat}&lon=${lon}`);
+      const apiUrl = `${import.meta.env.VITE_API_BASE_URL}/api/weather?lat=${lat}&lon=${lon}`;
+      const response = await fetch(apiUrl);
       const data = await response.json();
 
       if (data.success) {
