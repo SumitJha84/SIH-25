@@ -11,12 +11,12 @@ It includes details about the team, project resources, tech stack, completed tas
 - **Team Leader:** @SumitJha84  
 
 ### 🧑‍🤝‍🧑 Team Members
-- MEMBER_1 - ROLL_NUMBER - @SumitJha84  
-- MEMBER_2 - ROLL_NUMBER - @Arpitaacodes  
-- MEMBER_3 - ROLL_NUMBER - @ritika-works  
+- Sumit Jha - 2023UCB6065 - @SumitJha84  
+- Arpita Chhabra - 2023UBT1094 - @Arpitaacodes  
+- Ritika  - 2023UBT1024 - @ritika-works  
 - MEMBER_4 - ROLL_NUMBER - @  
-- MEMBER_5 - ROLL_NUMBER - @USERNAME  
-- MEMBER_6 - ROLL_NUMBER - @Raqeeb786  
+- Jai Verma - 2023UEI2821 - @USERNAME  
+- Abdul Raqeeb - 2023UCB - @Raqeeb786  
 
 ---
 
@@ -44,10 +44,10 @@ It includes details about the team, project resources, tech stack, completed tas
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React.js / Tailwind CSS / Other  
-- **Backend:** Node.js / Express.js / Django / Other  
-- **Database:** MongoDB / PostgreSQL / MySQL / Other  
-- **Deployment:** Vercel / Netlify / AWS / Other  
+- **Frontend:** React.js / Tailwind CSS / typescript  
+- **Backend:** Node.js / Express.js /  Fast API's
+- **Database:** MongoDB / PostgreSQL  
+- **Deployment:** Vercel  
 - **Other Tools:** Git, GitHub, Figma, Postman, etc.  
 
 ---
@@ -68,13 +68,15 @@ Follow these steps to run the project on your local machine:
 
 ```bash
 # Clone the repository
-git clone GITHUB_LINK_TO_THE_REPO
+git clone [GITHUB_LINK_TO_THE_REPO](https://github.com/SumitJha84/SIH-25.git)
 
 # Navigate to project folder
-cd PROJECT_FOLDER_NAME
+cd SIH-25
 
 # Install dependencies
 npm install   # or yarn install
 
-# Start development server
+# Start development server : open frontend folder
 npm run dev   # or yarn dev
+
+# 
