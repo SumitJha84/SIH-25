@@ -1,4 +1,4 @@
-# 🚀 PS Chosen SIH Hackathon
+# 🚀 Al-Powered Crop Yield Prediction and Optimization
 
 Al-Powered Crop Yield Prediction and Optimization
 ---
