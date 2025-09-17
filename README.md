@@ -24,7 +24,9 @@ Al-Powered Crop Yield Prediction and Optimization
 - 🎥 **Video Demonstration:** [[Watch Video]](https://www.youtube.com/watch?v=gpZB9ZwrJmY)
 - 🌐 **Live Deployment:** [[View Deployment]](https://sih-25-frontend.vercel.app/) 
 - 💻 **Source Code:** [[GitHub Repository]](https://github.com/SumitJha84/SIH-25.git)
-- 📚 **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)  
+- 📚 **Additional Resource_1:** [[soil data]](https://agri.odisha.gov.in/sites/default/files/2025-05/OAS%20A4.pdf)
+- 📚 **Additional Resource_2:** [[past yield data]](https://idc.icrisat.org/idc/wp-content/uploads/2020/12/Odisha%20Soil%20Atlas%20dated%202.12.2020.pdf)
+
 
 ---
 
