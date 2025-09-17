@@ -14,9 +14,9 @@ It includes details about the team, project resources, tech stack, completed tas
 - Sumit Jha - 2023UCB6065 - @SumitJha84  
 - Arpita Chhabra - 2023UBT1094 - @Arpitaacodes  
 - Ritika  - 2023UBT1024 - @ritika-works  
-- MEMBER_4 - ROLL_NUMBER - @  
-- Jai Verma - 2023UEI2821 - @USERNAME  
-- Abdul Raqeeb - 2023UCB - @Raqeeb786  
+- Parth Bisht - ROLL_NUMBER - @  
+- Jai Verma - 2023UEI2821 - @Jaiverma0923  
+- Abdul Raqeeb - 2023UCB6048 - @Raqeeb786  
 
 ---
 
