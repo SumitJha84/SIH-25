@@ -11,7 +11,7 @@ It includes details about the team, project resources, tech stack, completed tas
 - **Team Leader:** @USERNAME  
 
 ### 🧑‍🤝‍🧑 Team Members
-- MEMBER_1 - ROLL_NUMBER - @USERNAME  
+- MEMBER_1 - ROLL_NUMBER - @SumitJha84  
 - MEMBER_2 - ROLL_NUMBER - @USERNAME  
 - MEMBER_3 - ROLL_NUMBER - @USERNAME  
 - MEMBER_4 - ROLL_NUMBER - @USERNAME  
