@@ -60,10 +60,12 @@ It includes details about the team, project resources, tech stack, completed tas
 - Feature 2:  Dynamic, Context-Aware Recommendations
  Continuously updates farming advice based on real-time conditions and farmer feedback 
 for maximum accuracy.
-- Feature 3: Brief description  
-- Feature 4: Brief description  
-- Feature 5: Brief description  
-
+- Feature 3: Offline-First Access with Local Language Support
+ Runs without internet, supports Odia voice, SMS, and IVR—built for rural farmers using 
+feature phones or low-end smartphones. 
+- Feature 4: Built for Small-Scale & Marginal Farmers
+ Designed to solve the challenges of low-resource farmers often ignored by large agri-tech 
+platforms. 
 ---
 
 ## 🖥️ Run Project Locally  
