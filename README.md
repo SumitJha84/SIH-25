@@ -1,8 +1,6 @@
-# 🚀 PS Chosen SIH Hackathon
+# 🚀 Al-Powered Crop Yield Prediction and Optimization #
 
-This repository contains our project submission for the **Smart India Hackathon (SIH)**.  
-It includes details about the team, project resources, tech stack, completed tasks, and instructions to run the project locally.  
-
+This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally
 ---
 
 ## 👥 Team Details  
@@ -22,11 +20,13 @@ It includes details about the team, project resources, tech stack, completed tas
 
 ## 🔗 Project Links  
 
-- 📑 **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)  
+- 📑 **SIH Presentation:** [[Final SIH Presentation]](https://github.com/SumitJha84/SIH-25/blob/main/files/internal_PPT_HACK-O-HOLICS.pdf)  
 - 🎥 **Video Demonstration:** [[Watch Video]](https://www.youtube.com/watch?v=gpZB9ZwrJmY)
 - 🌐 **Live Deployment:** [[View Deployment]](https://sih-25-frontend.vercel.app/) 
 - 💻 **Source Code:** [[GitHub Repository]](https://github.com/SumitJha84/SIH-25.git)
-- 📚 **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)  
+- 📚 **Additional Resource_1:** [[soil data]](https://agri.odisha.gov.in/sites/default/files/2025-05/OAS%20A4.pdf)
+- 📚 **Additional Resource_2:** [[past yield data]](https://idc.icrisat.org/idc/wp-content/uploads/2020/12/Odisha%20Soil%20Atlas%20dated%202.12.2020.pdf)
+
 
 ---
 
@@ -78,6 +78,7 @@ git clone [GITHUB_LINK_TO_THE_REPO](https://github.com/SumitJha84/SIH-25.git)
 
 # Navigate to project folder
 cd SIH-25
+cd codes
 
 # Install dependencies
 npm install   # or yarn install
@@ -92,4 +93,46 @@ cd..
 cd backend
 npm start 
 
-# 
+# RUN ON TERMINAL FOR ACTIVATING PREDICTION MODEL API :
+
+uvicorn code.backend.yield_prediction_model.model_api:app --reload
+
+#example input:
+# {
+#   "Crop": "Rice",
+#   "Season": "Kharif",
+#   "Dist_Name": "Cuttack",
+#   "Year": 2023,
+#   "PreMonsoon_MAM_max": 38.5,
+#   "Monsoon_JJAS_max": 32.3,
+#   "PostMonsoon_OND_max": 29.1,
+#   "Winter_JF_max": 27.8,
+#   "Annual_MaxTemp": 31.5,
+#   "PreMonsoon_MAM_min": 23.6,
+#   "Monsoon_JJAS_min": 25.1,
+#   "PostMonsoon_OND_min": 18.5,
+#   "Winter_JF_min": 15.2,
+#   "Annual_minTemp": 22.6,
+#   "JJAS": 1400.5,
+#   "OND": 210.3,
+#   "JF": 28.4,
+#   "MAM": 85.2,
+#   "Annual": 1724.4,
+#   "Soil_Acidic": 22.1,
+#   "Soil_Alkaline": 5.4,
+#   "Soil_B": 0.5,
+#   "Soil_Ca": 3.4,
+#   "Soil_Cu": 1.2,
+#   "Soil_EC_conditions": 0.8,
+#   "Soil_Fe": 4.3,
+#   "Soil_K": 320.5,
+#   "Soil_Mg": 2.8,
+#   "Soil_Mn": 1.1,
+#   "Soil_Neutral": 71.2,
+#   "Soil_OC": 0.78,
+#   "Soil_P": 42.0,
+#   "Soil_S": 28.7,
+#   "Soil_Zn": 1.6,
+#   "Soil_samples": 101.0
+# }
+
