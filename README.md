@@ -1,4 +1,4 @@
-# 🚀 Al-Powered Crop Yield Prediction and Optimization
+# 🚀 Al-Powered Crop Yield Prediction and Optimization #
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally
 ---
@@ -78,6 +78,7 @@ git clone [GITHUB_LINK_TO_THE_REPO](https://github.com/SumitJha84/SIH-25.git)
 
 # Navigate to project folder
 cd SIH-25
+cd codes
 
 # Install dependencies
 npm install   # or yarn install
@@ -94,7 +95,7 @@ npm start
 
 # RUN ON TERMINAL FOR ACTIVATING PREDICTION MODEL API :
 
-uvicorn backend.yield_prediction_model.model_api:app --reload
+uvicorn code.backend.yield_prediction_model.model_api:app --reload
 
 #example input:
 # {
