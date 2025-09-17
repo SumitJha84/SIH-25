@@ -92,4 +92,44 @@ cd..
 cd backend
 npm start 
 
-# 
+# RUN ON TERMINAL FOR ACTIVATING API : uvicorn backend.yield_prediction_model.model_api:app --reload
+
+#example input:
+# {
+#   "Crop": "Rice",
+#   "Season": "Kharif",
+#   "Dist_Name": "Cuttack",
+#   "Year": 2023,
+#   "PreMonsoon_MAM_max": 38.5,
+#   "Monsoon_JJAS_max": 32.3,
+#   "PostMonsoon_OND_max": 29.1,
+#   "Winter_JF_max": 27.8,
+#   "Annual_MaxTemp": 31.5,
+#   "PreMonsoon_MAM_min": 23.6,
+#   "Monsoon_JJAS_min": 25.1,
+#   "PostMonsoon_OND_min": 18.5,
+#   "Winter_JF_min": 15.2,
+#   "Annual_minTemp": 22.6,
+#   "JJAS": 1400.5,
+#   "OND": 210.3,
+#   "JF": 28.4,
+#   "MAM": 85.2,
+#   "Annual": 1724.4,
+#   "Soil_Acidic": 22.1,
+#   "Soil_Alkaline": 5.4,
+#   "Soil_B": 0.5,
+#   "Soil_Ca": 3.4,
+#   "Soil_Cu": 1.2,
+#   "Soil_EC_conditions": 0.8,
+#   "Soil_Fe": 4.3,
+#   "Soil_K": 320.5,
+#   "Soil_Mg": 2.8,
+#   "Soil_Mn": 1.1,
+#   "Soil_Neutral": 71.2,
+#   "Soil_OC": 0.78,
+#   "Soil_P": 42.0,
+#   "Soil_S": 28.7,
+#   "Soil_Zn": 1.6,
+#   "Soil_samples": 101.0
+# }
+
