@@ -22,7 +22,7 @@ It includes details about the team, project resources, tech stack, completed tas
 
 ## 🔗 Project Links  
 
-- 📑 **SIH Presentation:** [[Final SIH Presentation]]((https://github.com/SumitJha84/SIH-25/blob/main/files/internal_PPT_HACK-O-HOLICS.pdf))  
+- 📑 **SIH Presentation:** [[Final SIH Presentation]](https://github.com/SumitJha84/SIH-25/blob/main/files/internal_PPT_HACK-O-HOLICS.pdf)  
 - 🎥 **Video Demonstration:** [[Watch Video]](https://www.youtube.com/watch?v=gpZB9ZwrJmY)
 - 🌐 **Live Deployment:** [[View Deployment]](https://sih-25-frontend.vercel.app/) 
 - 💻 **Source Code:** [[GitHub Repository]](https://github.com/SumitJha84/SIH-25.git)
