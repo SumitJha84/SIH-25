@@ -90,7 +90,9 @@ cd..
 cd backend
 npm start 
 
-# RUN ON TERMINAL FOR ACTIVATING API : uvicorn backend.yield_prediction_model.model_api:app --reload
+# RUN ON TERMINAL FOR ACTIVATING PREDICTION MODEL API :
+
+uvicorn backend.yield_prediction_model.model_api:app --reload
 
 #example input:
 # {
