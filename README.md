@@ -1,8 +1,6 @@
 # 🚀 PS Chosen SIH Hackathon
 
-This repository contains our project submission for the **Smart India Hackathon (SIH)**.  
-It includes details about the team, project resources, tech stack, completed tasks, and instructions to run the project locally.  
-
+Al-Powered Crop Yield Prediction and Optimization
 ---
 
 ## 👥 Team Details  
