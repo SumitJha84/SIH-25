@@ -76,7 +76,14 @@ cd SIH-25
 # Install dependencies
 npm install   # or yarn install
 
-# Start development server : open frontend folder
+# Start development server
+# For frontend
+cd frontend 
 npm run dev   # or yarn dev
+
+# For backend
+cd..
+cd backend
+npm start 
 
 # 
