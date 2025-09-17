@@ -7,16 +7,16 @@ It includes details about the team, project resources, tech stack, completed tas
 
 ## 👥 Team Details  
 
-- **Team Name:** TEAM_NAME_HERE  
-- **Team Leader:** @USERNAME  
+- **Team Name:** Hack-a-holics  
+- **Team Leader:** @SumitJha84  
 
 ### 🧑‍🤝‍🧑 Team Members
 - MEMBER_1 - ROLL_NUMBER - @SumitJha84  
-- MEMBER_2 - ROLL_NUMBER - @USERNAME  
-- MEMBER_3 - ROLL_NUMBER - @USERNAME  
-- MEMBER_4 - ROLL_NUMBER - @USERNAME  
+- MEMBER_2 - ROLL_NUMBER - @Arpitaacodes  
+- MEMBER_3 - ROLL_NUMBER - @ritika-works  
+- MEMBER_4 - ROLL_NUMBER - @  
 - MEMBER_5 - ROLL_NUMBER - @USERNAME  
-- MEMBER_6 - ROLL_NUMBER - @USERNAME  
+- MEMBER_6 - ROLL_NUMBER - @Raqeeb786  
 
 ---
 
@@ -25,7 +25,7 @@ It includes details about the team, project resources, tech stack, completed tas
 - 📑 **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)  
 - 🎥 **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)  
 - 🌐 **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)  
-- 💻 **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)  
+- 💻 **Source Code:** [[GitHub Repository](GITHUB LINK TO THE REPO)  ](https://github.com/SumitJha84/SIH-25.git)
 - 📚 **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)  
 
 ---
