@@ -1,0 +1,11 @@
+Crop,RMSE,R2,Samples,Model Path
+Total Food Grains,364763.12329417985,0.5053887486200763,941,saved_models/Total_Food_Grains_model.pkl
+Cereals,342325.6513178378,0.6039172952181151,924,saved_models/Cereals_model.pkl
+Rice,293663.4584988372,0.6708129434625827,859,saved_models/Rice_model.pkl
+Urad,16596.266555072463,0.024908315695995276,689,saved_models/Urad_model.pkl
+Moong,13929.121654545454,0.27598945505935146,657,saved_models/Moong_model.pkl
+Nutri/Coarse Cereals,1380223.1628969233,-0.6111461994839407,649,saved_models/Nutri_Coarse_Cereals_model.pkl
+Maize,643481.492729565,0.19202432530841917,571,saved_models/Maize_model.pkl
+Other Pulses,6969.406922666667,0.62736453901804,374,saved_models/Other_Pulses_model.pkl
+Shree Anna /Nutri Cereals,40184.4036875,0.3290245165817026,358,saved_models/Shree_Anna__Nutri_Cereals_model.pkl
+Ragi,30281.555869014082,0.4898368938129204,352,saved_models/Ragi_model.pkl
