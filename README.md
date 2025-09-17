@@ -57,7 +57,9 @@ It includes details about the team, project resources, tech stack, completed tas
 - Feature 1: AI-Driven Multi-Source Integration
               Combines agriculture, weather, and soil data to generate holistic, hyper-local crop yield 
               predictions.
-- Feature 2: Brief description  
+- Feature 2:  Dynamic, Context-Aware Recommendations
+ Continuously updates farming advice based on real-time conditions and farmer feedback 
+for maximum accuracy.
 - Feature 3: Brief description  
 - Feature 4: Brief description  
 - Feature 5: Brief description  
