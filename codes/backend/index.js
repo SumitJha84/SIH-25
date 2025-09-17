@@ -5,28 +5,33 @@ require('dotenv').config();
 
 const app = express();
 
+// --- START: FINAL CORS CONFIGURATION ---
+
 const allowedOrigins = [
-  'http://localhost:5173', // For your local development
-  'https://sih-25-frontend.vercel.app' // Your deployed frontend
+  'http://localhost:5173',          // Local development
+  'https://sih-25-frontend.vercel.app' // Deployed frontend
 ];
 
 const corsOptions = {
-  origin: function (origin, callback) {
-    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+  origin: (origin, callback) => {
+    // On localhost, the 'origin' header might be undefined during server-side rendering or certain requests.
+    // The !origin condition allows these requests to pass, which is essential for local development.
+    if (!origin || allowedOrigins.includes(origin)) {
       callback(null, true);
     } else {
       callback(new Error('Not allowed by CORS'));
     }
-  }
+  },
+  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+  credentials: true,
+  optionsSuccessStatus: 204 // Some legacy browsers choke on 200
 };
 
-// --- THIS IS THE KEY CHANGE ---
-// Handle preflight OPTIONS requests for all routes
-// app.options('*', cors(corsOptions));
-
-// Use the CORS options for all other requests
+// Use this single middleware for all CORS handling.
+// It will handle preflight OPTIONS requests automatically.
 app.use(cors(corsOptions));
-// --- END OF CONFIGURATION ---
+
+// --- END: FINAL CORS CONFIGURATION ---
 
 app.use(express.json());
 
