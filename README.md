@@ -23,7 +23,7 @@ It includes details about the team, project resources, tech stack, completed tas
 ## 🔗 Project Links  
 
 - 📑 **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)  
-- 🎥 **Video Demonstration:** (https://www.youtube.com/watch?v=gpZB9ZwrJmY)
+- 🎥 **Video Demonstration:** [[Watch Video]](https://www.youtube.com/watch?v=gpZB9ZwrJmY)
 - 🌐 **Live Deployment:** [[View Deployment]](https://sih-25-frontend.vercel.app/) 
 - 💻 **Source Code:** [[GitHub Repository]](https://github.com/SumitJha84/SIH-25.git)
 - 📚 **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)  
