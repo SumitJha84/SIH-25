@@ -54,7 +54,9 @@ It includes details about the team, project resources, tech stack, completed tas
 
 ## 🌟 Key Features  
 
-- Feature 1: Brief description  
+- Feature 1: AI-Driven Multi-Source Integration
+              Combines agriculture, weather, and soil data to generate holistic, hyper-local crop yield 
+              predictions.
 - Feature 2: Brief description  
 - Feature 3: Brief description  
 - Feature 4: Brief description  
