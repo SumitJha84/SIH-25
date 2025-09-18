@@ -12,7 +12,7 @@ This README provides an overview of the project, including team details, relevan
 - Sumit Jha - 2023UCB6065 - @SumitJha84  
 - Arpita Chhabra - 2023UBT1094 - @Arpitaacodes  
 - Ritika  - 2023UBT1024 - @ritika-works  
-- Parth Bisht - ROLL_NUMBER - @  
+- Parth Bisht - 2023UCM2825 - @  
 - Jai Verma - 2023UEI2821 - @Jaiverma0923  
 - Abdul Raqeeb - 2023UCB6048 - @Raqeeb786  
 
